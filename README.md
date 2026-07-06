@@ -51,8 +51,8 @@ currently: Building tools that make developers faster
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=baoyu0&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoyu0&layout=compact&theme=react&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=baoyu0&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=baoyu0&layout=compact&theme=react&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
@@ -64,7 +64,7 @@ currently: Building tools that make developers faster
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=baoyu0&theme=algolia&no-frame=true&no-bg=true&column=7" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=baoyu0&theme=algolia&no-frame=true&no-bg=true&column=7" alt="Trophies" />
 </div>
 
 ---
@@ -73,10 +73,10 @@ currently: Building tools that make developers faster
 
 <div align="center">
   <a href="https://github.com/nexu-io/open-design">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nexu-io&repo=open-design&theme=react&hide_border=true" />
+    <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nexu-io&repo=open-design&theme=react&hide_border=true" />
   </a>
   <a href="https://github.com/crynta/terax-ai">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crynta&repo=terax-ai&theme=react&hide_border=true" />
+    <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=crynta&repo=terax-ai&theme=react&hide_border=true" />
   </a>
 </div>
 

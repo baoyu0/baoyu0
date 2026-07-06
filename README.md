@@ -15,7 +15,7 @@
 
 ```yaml
 name: baoyu0
-location: 🇺🇸 美国
+location: 🇺🇸 
 role: AI Developer & Automation Engineer
 focus:
   - AI Agent Development
